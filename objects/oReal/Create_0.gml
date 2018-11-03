@@ -20,3 +20,8 @@ move_hold = 0;
 mv_speed = 0;
 
 cool_down = 0; //3 seconds between attacks
+
+#region Sanity
+effectedPlayer = false
+insanityEnemy = 10
+#endregion

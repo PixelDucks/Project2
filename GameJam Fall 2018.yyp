@@ -47,6 +47,14 @@
             }
         },
         {
+            "Key": "12f3e34a-977d-4620-90bd-0dbb7440f2b0",
+            "Value": {
+                "id": "5b458f80-272c-4465-b665-735815706d46",
+                "resourcePath": "views\\12f3e34a-977d-4620-90bd-0dbb7440f2b0.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
             "Key": "13fc5b61-7fa8-4b6e-8699-e39a53485d54",
             "Value": {
                 "id": "95daef7a-bd40-4265-8dfa-7d757e2a892c",
@@ -71,6 +79,14 @@
             }
         },
         {
+            "Key": "1f3f452f-c7aa-41ae-bac0-82cf58dffe56",
+            "Value": {
+                "id": "c74e893d-9924-4888-afa4-a71d6577f419",
+                "resourcePath": "objects\\oCampFire\\oCampFire.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "211a94bc-2ea8-4466-8f41-9f9254d17fca",
             "Value": {
                 "id": "f69c1e42-950e-45da-9088-db349c0dae87",
@@ -84,6 +100,14 @@
                 "id": "08875a39-f366-412b-98a5-2d8c820f790f",
                 "resourcePath": "objects\\oBus\\oBus.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "2b784a26-b154-4948-bafd-77a61fb05bac",
+            "Value": {
+                "id": "d9430ff7-cfba-4b8a-9d5d-225b2af727ab",
+                "resourcePath": "views\\2b784a26-b154-4948-bafd-77a61fb05bac.yy",
+                "resourceType": "GMFolder"
             }
         },
         {
@@ -239,6 +263,14 @@
             }
         },
         {
+            "Key": "a9188620-a624-4a5a-83ae-a1b53faf038b",
+            "Value": {
+                "id": "7df1a2ed-9b0a-4e91-b7a1-93fb89c71876",
+                "resourcePath": "options\\linux\\options_linux.yy",
+                "resourceType": "GMLinuxOptions"
+            }
+        },
+        {
             "Key": "afa475eb-d1fb-49b9-8c65-d277e72def13",
             "Value": {
                 "id": "63cc29ca-2d89-4ac9-81fc-e02cf040c9ea",
@@ -311,11 +343,27 @@
             }
         },
         {
+            "Key": "f418569b-3bdd-4706-a0e4-364317f54032",
+            "Value": {
+                "id": "f2e45ef1-a4c7-430f-b7ef-8ed021ec773f",
+                "resourcePath": "options\\mac\\options_mac.yy",
+                "resourceType": "GMMacOptions"
+            }
+        },
+        {
             "Key": "f8afbc5f-d7b7-491a-ab58-6c4c6f0d11be",
             "Value": {
                 "id": "61052614-21a4-43c1-b0b9-0ee20f04e890",
                 "resourcePath": "views\\f8afbc5f-d7b7-491a-ab58-6c4c6f0d11be.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "fde9589f-655c-44ab-9c3f-c9159320e9bc",
+            "Value": {
+                "id": "19eb313a-2c44-466c-9cbb-13648d9c8bb7",
+                "resourcePath": "sprites\\sCampFire\\sCampFire.yy",
+                "resourceType": "GMSprite"
             }
         }
     ],

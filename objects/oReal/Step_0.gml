@@ -18,3 +18,19 @@ switch (e_state)
 		
 		break;
 }
+
+if(e_state == STATE.attacking || e_state == STATE.chase)
+	global.enemyAttacking = true
+else
+	global.enemyAttacking = false
+
+#region Reduce Player Insanity
+if(instance_exists(oPlayer) && !effectedPlayer)
+{
+	if(e_state == STATE.attacking)
+		{
+			oPlayer.curr_sanity -= insanityEnemy
+			effectedPlayer = true
+		}
+}
+#endregion

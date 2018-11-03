@@ -59,3 +59,17 @@ x += move_h;
 y += move_v;
 #endregion
 
+#region Update Insanity Levels
+
+if(distance_to_object(oCampFire) <= oGameController.lightRadius && !global.enemyAttacking)
+{
+	if(curr_sanity < max_sanity)
+		curr_sanity += i_rate
+}
+else
+{
+	
+	if(curr_sanity > 0)
+		curr_sanity -= d_rate
+}
+#endregion
