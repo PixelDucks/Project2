@@ -12,10 +12,10 @@ switch (e_state)
 		scr_attacking_enemy();
 		break;
 	case STATE.hurt:
-	
+		scr_hurt_enemy();
 		break;
 	case STATE.dead:
-		
+		instance_destroy(self);
 		break;
 }
 

@@ -47,11 +47,19 @@
             }
         },
         {
+<<<<<<< HEAD
             "Key": "12f3e34a-977d-4620-90bd-0dbb7440f2b0",
             "Value": {
                 "id": "5b458f80-272c-4465-b665-735815706d46",
                 "resourcePath": "views\\12f3e34a-977d-4620-90bd-0dbb7440f2b0.yy",
                 "resourceType": "GMFolder"
+=======
+            "Key": "047743da-f4ab-48ea-b229-501e6c53a259",
+            "Value": {
+                "id": "a5b71888-9354-4e69-8bb4-1c4d30d2f1a3",
+                "resourcePath": "scripts\\scr_hurt_enemy\\scr_hurt_enemy.yy",
+                "resourceType": "GMScript"
+>>>>>>> 4d51c7d4bb40c1f84a3aede2a50f392a55f0b82e
             }
         },
         {
@@ -175,6 +183,14 @@
             }
         },
         {
+            "Key": "4c725656-23fc-47de-93f2-b064446af28b",
+            "Value": {
+                "id": "e0cad4dd-f73a-4525-8852-311ec701a5cd",
+                "resourcePath": "objects\\oItem\\oItem.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "508eee8b-71b8-4e13-a01f-a0e642e60a44",
             "Value": {
                 "id": "249c1eb1-2f53-4510-94d2-f9a91691a365",
@@ -265,7 +281,11 @@
         {
             "Key": "a9188620-a624-4a5a-83ae-a1b53faf038b",
             "Value": {
+<<<<<<< HEAD
                 "id": "7df1a2ed-9b0a-4e91-b7a1-93fb89c71876",
+=======
+                "id": "92743b5d-f515-4922-a13b-f3db3fdfe110",
+>>>>>>> 4d51c7d4bb40c1f84a3aede2a50f392a55f0b82e
                 "resourcePath": "options\\linux\\options_linux.yy",
                 "resourceType": "GMLinuxOptions"
             }
@@ -311,6 +331,14 @@
             }
         },
         {
+            "Key": "d0808cd8-49e1-480b-be88-bb295814ed45",
+            "Value": {
+                "id": "ec1c0e8f-ebbf-4bec-92a9-a15581689a54",
+                "resourcePath": "rooms\\rm_main\\rm_main.yy",
+                "resourceType": "GMRoom"
+            }
+        },
+        {
             "Key": "d13fb304-d1e8-45fe-b4b5-9199db17e43a",
             "Value": {
                 "id": "b9144cca-d7b0-46af-ac66-d4abbb5c300d",
@@ -327,10 +355,26 @@
             }
         },
         {
+            "Key": "e1c6e9e2-fe71-4499-90bd-831510139be5",
+            "Value": {
+                "id": "6e6a2430-8bef-45f3-85a6-f124a40a69d2",
+                "resourcePath": "sprites\\sItems\\sItems.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "e5b33010-e41d-41f1-a545-61cba39ce74a",
             "Value": {
                 "id": "5676c5eb-d37d-48cd-92f4-a4589c4c72ba",
                 "resourcePath": "objects\\oCollisionParent\\oCollisionParent.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "f2769e42-efb0-443d-8adf-fc92bf306ee0",
+            "Value": {
+                "id": "eee4ec10-409e-47a0-8587-e068694fc63a",
+                "resourcePath": "objects\\oItemController\\oItemController.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -345,7 +389,11 @@
         {
             "Key": "f418569b-3bdd-4706-a0e4-364317f54032",
             "Value": {
+<<<<<<< HEAD
                 "id": "f2e45ef1-a4c7-430f-b7ef-8ed021ec773f",
+=======
+                "id": "3311f1ae-ebed-425e-9f14-a77720c35800",
+>>>>>>> 4d51c7d4bb40c1f84a3aede2a50f392a55f0b82e
                 "resourcePath": "options\\mac\\options_mac.yy",
                 "resourceType": "GMMacOptions"
             }
@@ -359,18 +407,28 @@
             }
         },
         {
+<<<<<<< HEAD
             "Key": "fde9589f-655c-44ab-9c3f-c9159320e9bc",
             "Value": {
                 "id": "19eb313a-2c44-466c-9cbb-13648d9c8bb7",
                 "resourcePath": "sprites\\sCampFire\\sCampFire.yy",
                 "resourceType": "GMSprite"
+=======
+            "Key": "fb7bad24-3b46-4cc1-86a2-f15e384c83f3",
+            "Value": {
+                "id": "2308c15b-7483-45f0-baaa-41e892cf00be",
+                "resourcePath": "scripts\\script4\\script4.yy",
+                "resourceType": "GMScript"
+>>>>>>> 4d51c7d4bb40c1f84a3aede2a50f392a55f0b82e
             }
         }
     ],
     "script_order": [
         "7df89ebe-e2e7-4368-8db2-677b1e96aadc",
         "d2e1d4dd-e411-4000-9193-2fe18d56866d",
-        "169aa661-0209-49c4-a8f3-3a20a53f47e3"
+        "169aa661-0209-49c4-a8f3-3a20a53f47e3",
+        "047743da-f4ab-48ea-b229-501e6c53a259",
+        "fb7bad24-3b46-4cc1-86a2-f15e384c83f3"
     ],
     "tutorial": ""
 }

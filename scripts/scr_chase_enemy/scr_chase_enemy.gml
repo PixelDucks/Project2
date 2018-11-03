@@ -9,21 +9,23 @@ if (distance_to_object(oPlayer) > 150)
 	show_debug_message("No Longer Detecting Player");
 }
 
-//Chase Player
-move_towards_point(oPlayer.x, oPlayer.y, 2); 
-
 //In range to attack
 if (distance_to_object(oPlayer) < 50)
 {
+	speed = 0;
+	direction = 0;
 	if (cool_down <= 0) {
 		show_debug_message("Going to attack");
 		e_state = STATE.attacking;	
-		speed = 0;
-		direction = 0;
 		cool_down = 3 * room_speed;
 	}
 	else {
 		show_debug_message("Cooling down");
 		cool_down--;
 	}
+}
+else
+{
+	//Chase Player
+	move_towards_point(oPlayer.x, oPlayer.y, 2); 
 }

@@ -2,6 +2,7 @@
 
 damage = 25;
 hit_bonus = .15; //extra bonus damage?
+health = 100;
 
 detection_radius = 30;
 
