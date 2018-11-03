@@ -1,0 +1,1 @@
+show_inv = !show_inv;

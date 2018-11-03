@@ -4,7 +4,8 @@
     "mvc": "1.1",
     "name": "01cf6136-f2d3-4761-9b42-f104ee7f13e3",
     "children": [
-        "71664b9e-b951-4126-a3c8-85fe42871331"
+        "71664b9e-b951-4126-a3c8-85fe42871331",
+        "00fc76f9-0292-465c-85e1-04bc7f6f78be"
     ],
     "filterType": "GMObject",
     "folderName": "Controllers",
